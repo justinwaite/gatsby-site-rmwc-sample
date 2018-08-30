@@ -13,7 +13,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-helmet": "^5.2.0",
-    "rmwc": "1.9.1"
+    "rmwc": "1.8.3"
   },
   "keywords": [
     "gatsby"
